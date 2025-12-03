@@ -42,17 +42,17 @@ localhost/lab10_php_oop/
 
 Pada halaman tersebut terlihat seluruh file yang digunakan dalam praktikum:
 
-* config.php
+> config.php
 
-* database.php
+> database.php
 
-* form.php
+> form.php
 
-* form_input.php
+> form_input.php
 
-* mobil.php
+> mobil.php
 
-* proses_input.php
+> proses_input.php
 
 Semua file sudah berada dalam satu folder yang benar sesuai instruksi praktikum.
 
@@ -91,7 +91,7 @@ Input form bersifat opsional untuk contoh screenshot—yang penting struktur for
 
 ## 6️⃣ Output Berhasil: “Data berhasil disimpan”
 
-Screenshot terakhir menampilkan hasil setelah menekan tombol Submit.
+Screenshot terakhir menampilkan hasil setelah menekan tombol **Simpan Data**.
 Tampilan:
 
 <img width="493" height="191" alt="Screenshot 2025-12-03 122336" src="https://github.com/user-attachments/assets/689930f7-0c2d-446c-8981-9f91f59d8c6b" />
